@@ -1,178 +1,127 @@
-![Nexa Banner](/assets/ani-banner.gif)
+# Nexaverse
 
-# Awesome Nexa [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+### ↳ https://nexaverse.org
 
-<a href="https://awesomenexa.org"><strong style="font-size:1.6em;">👉 AwesomeNexa.org 👀</strong></a>
+Introducing safe & secure [__Spaces__](http://docs.nexaverse.org/creators/spaces.html) for Creators to __Build__, __Grow__ and __Profit__ from their _own community's_ economy.
 
-<div align="center">
-⚡ A curated list of awesome resources related to the <a href='https://nexa.org/'><strong>Nexa</strong></a> blockchain.
-<br />
-<br />
-Nexa is an open-source, proof-of-work blockchain and peer-to-peer digital value system.
-<br />
-<br />
-<a href="https://matrix.to/#/#nexa-dev:matrix.org">
-<img src="https://img.shields.io/badge/matrix-%23nexa_dev%3Amatrix.org-blue.svg" /></a>
-&nbsp;&nbsp;
-<a href="https://gitlab.com/nexa/nexa/-/commits/dev">
-<img src="https://badgen.net/gitlab/last-commit/nexa/nexa/" /></a>
-&nbsp;&nbsp;
-<a href="https://gitlab.com/nexa/nexa/-/issues">
-<img src="https://badgen.net/gitlab/open-issues/nexa/nexa" /></a>
-&nbsp;&nbsp;
-<a href="https://gitlab.com/nexa/nexa">
-<img src="https://img.shields.io/badge/License-CC--0-blue.svg" /></a>
-</div>
+# Table of contents
+
+- [Introduction](#introduction)
+  - [Prerequisites](#prerequisites)
+  - [Requirements](#requirements)
+- [Getting Started](#getting-started)
+  - [Supported Networks](#supported-networks)
+  - [Building the workspace](#building-the-workspace)
 
 
-## Contents
+## Introduction
 
-- [Official Sites](#official-sites)
-- [Featured Sites](#featured-sites)
-- [Blockchain Explorers](#blockchain-explorers)
-- [Faucets](#faucets)
-- [Trackers](#trackers)
-- [Exchanges](#exchanges)
-  - [Centralized](#centralized)
-  - [Instant](#instant)
-- [Mining](#mining)
-  - [Pools](#pools)
-  - [Software](#software)
-  - [Guides](#guides)
-  - [Calculators](#calculators)
-  - [Charts & Statistics](#charts--statistics)
-- [Development Tools](#development-tools)
-  - [JavaScript](#javascript)
-  - [C++](#c)
-  - [Java/Kotlin](#javakotlin)
-- [Articles and Explanations](#articles-and-explanations)
-- [Videos](#videos)
-- [Community](#community)
-- [Related Projects](#related-projects)
+Nexaverse lives as a side-chain to a bleeding-edge UTXO blockchain called [__Nexa__](https://www.nexa.org/). Together they form a bond that covers the best of both blockchain universes; providing __Users__, __BUIDLers__ and __Investors__ with the luxury of choice!
 
 
-## Official Sites
+## Getting Started
 
-- [Homepage](https://nexa.org/) - A digital economy with capacity for all.
-- [Specification](https://spec.nexa.org/) - Nexa blockchain protocol and consensus specifications.
-- [Bitcoin Unlimited](https://www.bitcoinunlimited.info/) - Bitcoin Unlimited provides a voice to all stakeholders in the Bitcoin ecosystem.
-- [Discord channel](https://discord.gg/2yQNsZV6EJ) - Currently hosting Nexa's largest social media community.
-- [Telegram group](https://t.me/nexacoin) - Conversations about Nexa happening on Telegram.
-- [Development group on [matrix]](https://matrix.to/#/#nexa-dev:matrix.org) - Chat directly with the BU/Nexa team and community developers.
-- [Twitter](https://twitter.com/nexamoney) - Official Twitter account.
-- [Reddit](https://www.reddit.com/r/Nexa/) - Official Reddit account.
-- [YouTube](https://www.youtube.com/channel/UCH03nTnxs3TLmbSHtm54B1g) - Official YouTube channel.
-- [Instagram](https://www.instagram.com/nexacoin/) - Official Instagram account.
-- [TikTok](https://www.tiktok.com/@nexacoin) - Official TikTok account.
+Your NEW path to financial freedom is just a few minutes away..
 
+1. [__Download the app__](https://nexaverse.org/download) from your preferred app store.
+2. Click on the __Spaces__ tab.
+3. Click on __'Create a New Space'__.
+4. Enter a __name__ for your new Space.
+5. Take _(or upload)_ a __photo/image__ for your Space's cover.
+6. Choose a __3-5 character symbol__ for your Space's $COIN.
+7. __Profit!__ 🤑
 
-## Featured Sites
+### Supported Networks
 
-- [Forum](https://nexa.forum/) - A community-run forum for Nexa questions and answers.
+Nexaverse natively supports the following PRIMARY networks:
 
+01. Bitcoin (0xBTC)
+02. Bitcoin Cash (0xBCH)
+03. Nexa (0xNEXA)
 
-## Blockchain Explorers
+Nexaverse natively supports the following SECONDARY networks:
 
-- [Nexa Explorer _(explorer.nexa.org)_](https://explorer.nexa.org/) - Official block explorer.
-
-
-## Faucets
-
-- [Nexa Club](https://faucet.nexaclub.org/) - A community-run NEXA faucet.
-
-
-## Trackers
-
-- [CoinMarketCap](https://coinmarketcap.com/currencies/nexa/) - The #1 Crypto price & market tracking portal.
-- [CoinGecko](https://www.coingecko.com/en/coins/nexacoin) - One of the leading Crypto price indices.
+04. Avalanche (0xAVAX)
+05. Binance (0xBSC)
+06. Dash (0xDASH)
+07. Ethereum (0xETH)
+08. Filecoin (0xFIL)
+09. Litecoin (0xLTC)
+10. Monero (0xXMR)
+11. Polygon (0xMATIC)
+12. Tron (0xTRX)
+13. Zcash (0xZEC)
 
 
-## Exchanges
+## Product
 
-> Users will have several options when __Buying and/or Selling NEXA__ on the open market; depending mostly on the source of funds that will be used during their transaction.
+The Nexaverse mobile app aims to offer a Creator everything from A to Z, so they can hold the keys to their own financial future.
 
-### Centralized
-- [Exbitron](https://www.exbitron.com/trading/nexausdt) - Offering trading pairs for USDT (via Tron) and BCH.
-- [Txbit](https://txbit.io/Trade/NEXA/USDT) - Offering trading pairs for USDT (via BNB Smart Chain).
-- [SafeTrade](https://safe.trade/trading/nexausdt) - Offering trading pairs for USDT.
-- [TradeOgre](https://www.tradeogre.com/) - Offering trading pairs for USDT (via Ethereum).
+__Presenting a comprehensive suite of tools & services:__
 
-### Instant
-- [Nexa Swap](https://nexaswap.com) - Offering instant exchange to/from NEXA and over 100+ cryptocurrencies.
+- Web3 Site Builder
+- Merge Mining Software
+- Market Maker Bot
 
 
-## Mining
+## Use Cases
 
-> Nexa uses the unique [__NexaPOW__](https://spec.nexa.org/nexa/NexaPOW.md) mining algorithm, which is currently CPU and GPU compatible.
+We aim to support Creators from all walks of life.
 
-### Pools
-- [Rplant Pool](https://pool.rplant.xyz/) - A GPU mining pool.
-- [Pool137](https://nexapool.crypto137.com/) - A GPU mining pool.
-- [Nexa Rocks!](https://nexa.rocks/pool/) - A CPU solo and cloud mining pool.
-- [Vipor.net](https://vipor.net/) - A Solo and PPLNS GPU mining pool.
-- [WoolyPooly](https://woolypooly.com/en/coin/nexa) - A Solo and PPLNS GPU mining pool.
-- [ACC Pool](https://nexa.acc-pool.pw/) - A PPLNS GPU mining pool.
+__During our initial (MVP) launch, we'll be targeting the following sectors:__
 
-### Software
-- [Nexa Nvidia Miner](https://gitlab.com/proteanx/nexa-nvidia-miner) - The first NVIDIA GPU miner.
-- [WildRig Multi](https://github.com/andru-kun/wildrig-multi) - Multi-algorithm miner for AMD & NVIDIA.
-
-### Guides
-- [Mining quick(ish) start (CPU)](https://www.reddit.com/r/Nexa/comments/vhgubw/mining_quickish_start/) - Guide to getting setup with Solo CPU mining.
-- [Solo Mining (CPU)](https://nexa.rocks/solo/) - Guide to getting setup with Solo CPU mining.
-
-### Calculators
-- [minerstat](https://minerstat.com/coin/NEX) - Estimated earnings, costs, and profits for mining NEX.
-
-### Charts & Statistics
-- [MiningPoolStats](https://miningpoolstats.stream/nexa) - View and compare statistics for all of the NexaPOW supported mining pools.
+1. Gaming
+2. Podcasts
+3. Fashion
 
 
-## Development Tools
+## Team
 
-> Nexa offers a premium __Developer Experience (DX)__ from beginner thru advanced __Decentralized Application (dApp)__ development; supporting many of today's MOST popular programming languages.
+Nexaverse is built and managed by [__Ava's DAO__](https://avasdao.org); which is lead by [__0xShomari__](https://twitter.com/0xShomari).
 
-### JavaScript
-- [NexaJS](https://nexajs.org/) - A JavaScript library and software development kit (SDK).
+## Go-To-Market Strategy
 
-### C&plus;&plus;
-- [CashLib](https://gitlab.com/nexa/nexa/-/tree/dev/src/cashlib) - Source and header files for C++ development.
+Please take a look at our "public" data room 👇
 
-### Java/Kotlin
-- [Kotlin for JS](https://kotlinlang.org/docs/js-interop.html) - Use JavaScript code from Kotlin.
-
-
-## Articles and Explanations
-
-- [Official Roadmap](https://www.nexa.org/roadmap) - A detailed guide explaining when and how the Nexa project will proceed over the next few years.
+- __Lean Canvas —__ https://canvas.nexaverse.org
+- __Product Tour —__ https://tour.nexaverse.org
+- __Business Plan__ _(coming soon)_
 
 
-## Videos
+## Technologies Used
 
-- [Signature Scaling Via Hardware](https://www.youtube.com/watch?v=pDRCWcw5sAU) - A technical presentation by [Peter Rizun](https://twitter.com/PeterRizun) (Nexa's Chief Scientist).
+Our team has integrated over a dozen Web3 innovations into our all-NEW Nexaverse mobile app. Below we detail some of our most noteworthy implementations 👇
+
+### Filecoin
+
+We're using the Filecoin system via [__Fleek__](https://fleek.co/) to store media for our user's Spaces.
+
+__You can view our implementation in the following source code:__
+
+- `/mobile/screens/Spaces.js` _(line ##)_
+
+## Frequently Asked Questions
+
+Here are some of the most commonly asked questions about the Nexaverse.
+
+### Why are you using PoW and not PoS to produce a Space's assets?
+
+Although we're now post "Merge", it is our experience that PoW will offer a greater defense against the ever fearful [__Howey Test__](https://www.investopedia.com/terms/h/howey-test.asp); and give our user community a greater assurance when creating and managing their crypto economies.
+
+### What is 0xNEXA?
+
+__0xNEXA__ is the base coin/asset of the Nexaverse. This coin is bridged from the [__Nexa blockchain__](https://www.nexa.org/) via the [__Nexa Exchange__](https://nexa.exchange). __$NEXA__ is the native coin/asset of Nexa.
+
+_1 0xNEXA = 1 $NEXA_
+
+### What is the USD value of 1 (One) 0xNEXA coin?
+
+At the time of this writing, 0xNEXA has no face value, as there are currently NO exchanges supporting this asset.
 
 
-## Community
+## Get In Touch
 
-- [Nexa OTC](https://t.me/nexaP2Ptrading) - P2P trading chat.
+Please feel free to contact me _(and my team)_ using your preferred channel.
 
-
-## Related Projects
-
-- [Bitcoin (BTC)](https://bitcoin.org) - 1st generation P2P electronic cash blockchain.
-- [Bitcoin Cash (BCH)](https://bitcoincash.org) - 2nd generation P2P electronic cash blockchain.
-
-
-## Contributing
-
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-Special thanks to everyone who forked and/or starred the repository ❤️
-
----
-
-License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, [__Ava's DAO__](https://github.com/avasdao/) has waived all copyright and related or neighboring rights to __Awesome Nexa__. For the full license, see [LICENSE](LICENSE.md).
+- Twitter: [__0xShomari__](https://twitter.com/0xShomari) _(dms are open)_
+- Matrix: [__@nyusternie:matrix.org__](https://matrix.to/#/@nyusternie:matrix.org)
